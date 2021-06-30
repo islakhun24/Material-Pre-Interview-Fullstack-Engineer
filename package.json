@@ -1,0 +1,28 @@
+{
+  "name": "materia",
+  "version": "1.0.0",
+  "description": "Material Pre-Interview Fullstack Engineer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Islakhun Nur Dzaki",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/islakhun24/Material-Pre-Interview-Fullstack-Engineer.git"
+  },
+  "keywords": [
+    "Material",
+    "Pre-Interview",
+    "Fullstack",
+    "Engineer"
+  ],
+  "bugs": {
+    "url": "https://github.com/islakhun24/Material-Pre-Interview-Fullstack-Engineer/issues"
+  },
+  "homepage": "https://github.com/islakhun24/Material-Pre-Interview-Fullstack-Engineer#readme",
+  "dependencies": {
+    "prompt": "^1.1.0"
+  }
+}
